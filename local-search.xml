@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2022/12/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2022/12/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>remote_test_page</title>
+    <link href="/2022/12/15/remote-test-page/"/>
+    <url>/2022/12/15/remote-test-page/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/12/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/22.png" class="" title="这里是图片的描述">]]></content>
+    <content type="html"><![CDATA[<p>This is a remote testing article.</p>]]></content>
     
     
     
